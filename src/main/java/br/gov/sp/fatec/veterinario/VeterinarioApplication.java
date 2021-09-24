@@ -1,13 +1,13 @@
-package br.gov.sp.fatec.frases;
+package br.gov.sp.fatec.veterinario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FrasesApplication {
+public class VeterinarioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FrasesApplication.class, args);
+		SpringApplication.run(VeterinarioApplication.class, args);
 	}
 
 }
