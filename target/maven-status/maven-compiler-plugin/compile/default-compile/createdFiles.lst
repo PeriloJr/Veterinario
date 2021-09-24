@@ -1,0 +1,5 @@
+br\gov\sp\fatec\veterinario\VeterinarioApplication.class
+br\gov\sp\fatec\veterinario\entity\Dono.class
+br\gov\sp\fatec\veterinario\repository\DonoRepository.class
+br\gov\sp\fatec\veterinario\entity\Animal.class
+br\gov\sp\fatec\veterinario\repository\AnimalRepository.class
